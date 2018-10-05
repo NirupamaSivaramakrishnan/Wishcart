@@ -1,2 +1,2 @@
 # Wishcart
-#Read me update for commit
+#Readme update for commit
